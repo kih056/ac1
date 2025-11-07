@@ -1,5 +1,5 @@
 import unittest
-from calculator import add, multiply
+from prac.test3.calculator import add, multiply
 
 class TestCalculator(unittest.TestCase):
     def test_add(self):

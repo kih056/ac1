@@ -1,4 +1,4 @@
-from calculator import add, multiply
+from prac.test3.calculator import add, multiply
 
 def main():
     print("Addition: ", str(add(5, 3)))
